@@ -66,6 +66,7 @@ func main() {
 		"What is 2 + 2?",
 		"Write a one-line haiku about Go programming.",
 		"What does IFSC stand for in banking?",
+		"Write a small Go program with Comments.",
 	}
 
 	for i, prompt := range prompts {
